@@ -41,7 +41,7 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 ### ⚔️ Tech Stack
 
-#### Main
+<div align="center">❤️ Main ❤️</div><br>
 <!-- - Language : HTML, CSS, JavaScript, TypeScript, Java -->
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -66,7 +66,8 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 <br>
 
-#### DevOps
+
+<div align="center">🧡 DevOps 🧡</div><br>
 <!--- DevOps : AWS, Docker, Nginx -->
 <div align="center">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -74,9 +75,9 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </div>
 
-#### Tools
 <br>
 
+<div align="center">💛 Tools 💛</div><br>
 <!-- - Tools : Git, Jenkins, Notion, Figma, Jira -->
 <div align="center">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -90,14 +91,14 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 <!-- Support skill : java, spring, express -->
 
-#### Support
+<div align="center">💚 Support 💚</div><br>
 <div align="center">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </div>
 
-
+<br>
 
 ### 📊 Algorithm
 
