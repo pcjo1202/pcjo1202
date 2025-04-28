@@ -102,7 +102,7 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 ### 📊 Algorithm
 
 <div align="center">
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ckdwhdev)
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ckdwhdev" />
 </div>
 
 
