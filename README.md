@@ -28,7 +28,7 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 ### 📝 Projects
 
-- _"위치기반 감정 소통 서비스" - **요이**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/Yoi2ttang)
+- _"위치기반 감정 소통 서비스" - **요이땅**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/Yoi2ttang)
 
 - _"위치기반 감정 소통 서비스" - **IEUM**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/IEUM)
 
