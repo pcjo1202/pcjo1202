@@ -28,9 +28,12 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 ### 📝 Projects
 
+- _"위치기반 감정 소통 서비스" - **요이**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/Yoi2ttang)
+
 - _"위치기반 감정 소통 서비스" - **IEUM**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/IEUM)
 
 - _"싸피인의 자율적 성장을 돕는 스터디 지원 플랫폼" - **SSACLE**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/SSACLE)
+
 - _"평범한 일상의 회복을 위한 관광지 추천 플랫폼" - **Aboha**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/Aboha)
 
 - _"코로나 블루 해결을 위한 일상 기록 서비스" - **My memory**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/my-memory)
