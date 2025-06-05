@@ -38,9 +38,6 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 - _"코로나 블루 해결을 위한 일상 기록 서비스" - **My memory**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/my-memory)
 
-- _"수도권 대중교통의 실시간 이용현황을 알려주는 서비스" - **Traffic_Manager**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/Traffic_Manager)
-
-
 
 ### ⚔️ Tech Stack
 
