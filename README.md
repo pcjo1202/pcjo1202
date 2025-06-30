@@ -1,8 +1,8 @@
-## 😍 Hello, I'm Changjo, a smelly Frontend developer.👋
+## 😍 안녕하세요, 긍정의 향기를 전하는 개발자 박창조입니다.👋
 
 _"세상에 선한 영향력을 주는 사람이 되고 싶은 비전을 가지고 있습니다."_
 
-_"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은 서비스를 위해 고민하며 개발하며, 동료들과 함께 성장하는 것을 좋아하는 개발자입니다."_
+_"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은 서비스를 위해 고민하며 개발하며, 동료들과 함께 성장하는 것을 기뻐하는 개발자입니다."_
 
 
 <div align="" style="display: flex; gap: 10px;">
@@ -20,7 +20,7 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 ### 📚 Education
 
-- 2024.07 ~ `현재` : 삼성 청년 SW 아카데미, SSAFY 12th
+- 2024.07 ~ 2025.06 : 삼성 청년 SW AI 아카데미, SSAFY 12th
 - 2024.03 ~ 2024.06 : SK PLANET ASAC 05th
 - 2018.03 ~ 2024.02 : GANGNEUNG-WONJU NATIONAL UNIVERSITY 정보통신공학과, 컴퓨터공학 학사
 
@@ -41,9 +41,20 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 ### ⚔️ Tech Stack
 
-<div align="center">❤️ Main ❤️</div><br>
+💙 활용하는 AI 💙
+<!-- - Language : Cursor AI, Gemini, Claude, Perplexity, ChatGPT, MCP -->
+- `Cursor AI` : 개발 생산성, MCP 활용
+- `Gemini` : 디자인 피드백 및 분석 시 이미지 활용 (멀티모달 이용)
+- `Perplexity` : 최신 정보·리서치
+- `ChatGPT` : 범용적인, 일상적인 필요가 있을 시 활용
+  
+<br>
+
+<div align="left">❤️ Main ❤️</div><br>
 <!-- - Language : HTML, CSS, JavaScript, TypeScript, Java -->
-<div align="center">
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev) -->
+
+<div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -51,9 +62,10 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 </div>
  
 <br>
- 
+<!-- [![My Skills](https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,redux,)](https://skillicons.dev) -->
 <!-- - Framework : Vue.js, React, Next.js, TailwindCSS, Styled-components, Redux, zustand, Tanstack Query  -->
-<div align="center">
+
+<div align="left">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
@@ -67,19 +79,20 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 <br>
 
 
-<div align="center">🧡 DevOps 🧡</div><br>
+<div align="left">🧡 DevOps 🧡</div><br>
 <!--- DevOps : AWS, Docker, Nginx -->
-<div align="center">
+
+<div align="left">
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </div>
-
 <br>
 
-<div align="center">💛 Tools 💛</div><br>
+
+<div align="left">💛 Tools 💛</div><br>
 <!-- - Tools : Git, Jenkins, Notion, Figma, Jira -->
-<div align="center">
+<div align="left">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -91,8 +104,8 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 <!-- Support skill : java, spring, express -->
 
-<div align="center">💚 Support 💚</div><br>
-<div align="center">
+<div align="left">💚 Support 💚</div><br>
+<div align="left">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -102,7 +115,7 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 ### 📊 Algorithm
 
-<div align="center">
+<div align="left">
   <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ckdwhdev" />
 </div>
 
