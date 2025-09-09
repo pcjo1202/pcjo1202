@@ -125,4 +125,4 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 - Email : ckdwhdev@gmail.com
 - LinkedIn : [🔗 ckdwhdev](https://www.linkedin.com/in/chang-jo-park-a22830362/)
 - Blog : [🔗 velog](https://velog.io/@pcjo1202)
-- Portfolio : [🔗 github]([https://github.com/pcjo1202/portfolio](https://link.scent-jo.me/portfolio/pdf))
+- Portfolio : [🔗 pdf](https://link.scent-jo.me/portfolio/pdf)
