@@ -20,7 +20,7 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 ### 📚 Education
 
-- 2024.07 ~ 2025.06 : 삼성 청년 SW AI 아카데미, SSAFY 12th
+- 2024.07 ~ 2025.06 : SAMSUNG SW AI ACADEMY FOR YOUTH (SSAFY) 12th
 - 2024.03 ~ 2024.06 : SK PLANET ASAC 05th
 - 2018.03 ~ 2024.02 : GANGNEUNG-WONJU NATIONAL UNIVERSITY 정보통신공학과, 컴퓨터공학 학사
 
@@ -35,6 +35,8 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 - _"싸피인의 자율적 성장을 돕는 스터디 지원 플랫폼" - **SSACLE**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/SSACLE)
 
 - _"평범한 일상의 회복을 위한 관광지 추천 플랫폼" - **Aboha**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/Aboha)
+
+<!-- - _"00" - **00**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/00) -->
 
 - _"코로나 블루 해결을 위한 일상 기록 서비스" - **My memory**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/my-memory)
 
@@ -86,6 +88,7 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </div>
 <br>
 
