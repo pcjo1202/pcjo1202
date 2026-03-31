@@ -7,8 +7,8 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 <div align="" style="display: flex; gap: 10px;">
 <!-- 포트폴리오 사이트 링크 -->
-<a href="https://link.scent-jo.me/portfolio/pdf">
-  <img src="https://img.shields.io/badge/Portfolio-1572B6?style=for-the-badge&logo=&logoColor=white"/>
+<a href="https://scent-jo.me/">
+  <img src="https://img.shields.io/badge/HomePage-1572B6?style=for-the-badge&logo=&logoColor=white"/>
 </a>
 
 <!-- 기술 블로그 사이트 링크 -->
