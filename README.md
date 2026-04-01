@@ -17,6 +17,10 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 </a>
 </div>
 
+<br/>
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/pcjo1202/svg)](https://tokscale.ai/u/pcjo1202)
+
 
 ### 📚 Education
 
