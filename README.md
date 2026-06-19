@@ -7,13 +7,17 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 <div align="" style="display: flex; gap: 10px;">
 <!-- 포트폴리오 사이트 링크 -->
-<a href="https://scent-jo.me/">
+<a href="https://scent-jo.dev/">
   <img src="https://img.shields.io/badge/HomePage-1572B6?style=for-the-badge&logo=&logoColor=white"/>
 </a>
 
 <!-- 기술 블로그 사이트 링크 -->
 <a href="https://velog.io/@pcjo1202">
   <img src="https://img.shields.io/badge/Blog-11B483?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
+
+<a href="https://scent-jo.dev/blog">
+  <img src="https://img.shields.io/badge/Blog-11B483?style=for-the-badge&logo=Blog&logoColor=white"/>
 </a>
 </div>
 
@@ -22,14 +26,18 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 [![Tokscale Stats](https://tokscale.ai/api/embed/pcjo1202/svg)](https://tokscale.ai/u/pcjo1202)
 
 
+<!--
 ### 📚 Education
 
 - 2024.07 ~ 2025.06 : SAMSUNG SW AI ACADEMY FOR YOUTH (SSAFY) 12th
 - 2024.03 ~ 2024.06 : SK PLANET ASAC 05th
 - 2018.03 ~ 2024.02 : GANGNEUNG-WONJU NATIONAL UNIVERSITY 정보통신공학과, 컴퓨터공학 학사
 
+-->
+
 <!-- ### 💼 Experiences -->
 
+<!--
 ### 📝 Projects
 
 - _"땅 따먹기 게임을 접목시킨 즐거움을 주는 런닝 서비스" - **요이땅**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/Yoi2ttang)
@@ -38,11 +46,13 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 - _"싸피인의 자율적 성장을 돕는 스터디 지원 플랫폼" - **SSACLE**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/SSACLE)
 
-- _"평범한 일상의 회복을 위한 관광지 추천 플랫폼" - **Aboha**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/Aboha)
+- _"평범한 일상의 회복을 위한 관광지 추천 플랫폼" - **Aboha**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/Aboha) -->
 
 <!-- - _"00" - **00**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/00) -->
 
-- _"코로나 블루 해결을 위한 일상 기록 서비스" - **My memory**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/my-memory)
+<!-- - _"코로나 블루 해결을 위한 일상 기록 서비스" - **My memory**_ 🫱🏻 [🔗 github](https://github.com/pcjo1202/my-memory) -->
+
+
 
 
 ### ⚔️ Tech Stack
@@ -131,5 +141,5 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 - Email : ckdwhdev@gmail.com
 - LinkedIn : [🔗 ckdwhdev](https://www.linkedin.com/in/chang-jo-park-a22830362/)
-- Blog : [🔗 velog](https://velog.io/@pcjo1202)
-- Portfolio : [🔗 pdf](https://link.scent-jo.me/portfolio/pdf)
+- Blog : [🔗 velog](https://velog.io/@pcjo1202) / [🔗 Blog](https://scent-jo.dev/blog)
+<!-- - Portfolio : [🔗 pdf](https://link.scent-jo.me/portfolio/pdf) -->
