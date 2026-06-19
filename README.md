@@ -59,10 +59,11 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 
 💙 활용하는 AI 💙
 <!-- - Language : Cursor AI, Gemini, Claude, Perplexity, ChatGPT, MCP -->
-- `Cursor AI` : 개발 생산성, MCP 활용
+- `Claude Code` : 하네스 엔지니어링, 개발,설계, 테스트 등 모든 작업
+- `ChatGPT(Codex)` : 범용적인, 일상적인 필요가 있을 시 활용, 코드,문서 리뷰 진행 시 codex 사용
+- `Cursor AI` : 개발 생산성
 - `Gemini` : 디자인 피드백 및 분석 시 이미지 활용 (멀티모달 이용)
 - `Perplexity` : 최신 정보·리서치
-- `ChatGPT` : 범용적인, 일상적인 필요가 있을 시 활용
   
 <br>
 
@@ -82,6 +83,7 @@ _"사용자 경험을 가장 가치있는 기준으로 삼고, 항상 더 나은
 <!-- - Framework : Vue.js, React, Next.js, TailwindCSS, Styled-components, Redux, zustand, Tanstack Query  -->
 
 <div align="left">
+    <img src="https://img.shields.io/badge/-Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
