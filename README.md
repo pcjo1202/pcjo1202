@@ -61,11 +61,7 @@ _"빠르게 변화하는 흐름에 따라 `Always Ready!`의 가치를 가지고
 
 💙 활용하는 AI 💙
 <!-- - Language : Cursor AI, Gemini, Claude, Perplexity, ChatGPT, MCP -->
-- `Claude Code` : 하네스 엔지니어링, 개발,설계, 테스트 등 모든 작업
-- `ChatGPT(Codex)` : 범용적인, 일상적인 필요가 있을 시 활용, 코드,문서 리뷰 진행 시 codex 사용
-- `Cursor AI` : 개발 생산성
-- `Gemini` : 디자인 피드백 및 분석 시 이미지 활용 (멀티모달 이용)
-- `Perplexity` : 최신 정보·리서치
+- `Claude Code` , `ChatGPT(Codex)`
   
 <br>
 
